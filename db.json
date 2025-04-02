@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": "stu01",
+      "fullName": "Rinku A Salunke",
+      "age": 22,
+      "contactNumber": 9665463595,
+      "address": "Karvenagar",
+      "email": "rinkusalunke9@gmail.com",
+      "gender": "MALE",
+      "courses": [
+        "Python",
+        "AWS"
+      ],
+      "batchMode": "OFFLINE"
+    },
+    {
+      "id": "stu02",
+      "fullName": "Rinku J Salunke",
+      "age": 33,
+      "contactNumber": 9665463595,
+      "address": "Karvenagar",
+      "email": "rinkusalunke9@gmail.com",
+      "gender": "MALE",
+      "courses": [
+        "Python",
+        "AWS"
+      ],
+      "batchMode": "OFFLINE"
+    },
+    {
+      "id": "3095",
+      "fullName": "Snehal A Salunke",
+      "age": 23,
+      "contactNumber": 7397894207,
+      "address": "Jamkhed",
+      "email": "snehalsalunke61@gmail.com",
+      "gender": "FEMALE",
+      "courses": [
+        "Python",
+        "AWS"
+      ],
+      "batchMode": "OFFLINE"
+    },
+    {
+      "id": "bd77",
+      "fullName": "rinku ashok salunke",
+      "age": "22",
+      "contactNumber": "+91 9665463595",
+      "address": "Alsunde karjat ",
+      "email": "rinkusalunke9@gmail.com",
+      "gender": "MALE",
+      "courses": [
+        "Java",
+        "AWS"
+      ],
+      "batchMode": "OFFLINE"
+    }
+  ]
+}
